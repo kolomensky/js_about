@@ -108,7 +108,7 @@
                 var t = e.children;
                 return (0, A.jsxs)(A.Fragment, {
                     children: [(0, A.jsx)(o.y, {
-                        title: "swgate"
+                        title: "about me"
                     }), t]
                 })
             };
