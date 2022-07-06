@@ -63,13 +63,7 @@
                                 style: l.b.Gray,
                                 name: "life",
                                 x: .18,
-                                y: .48    
-                            }, {
-                                href: " ",
-                                style: l.b.Gray,
-                                name: "life1",
-                                x: .18,
-                                y: .48                         
+                                y: .48                                               
                             }]
                         
                         }), (0, A.jsx)("div", {
