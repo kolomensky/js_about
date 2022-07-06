@@ -41,31 +41,31 @@
                             persist: !0,
                             stateKey: "ok3",
                             folders: [{
-                                href: ".family.html",
+                                href: " ",
                                 style: l.b.Default,
                                 name: "family",
                                 x: .65,
                                 y: .75                            
                             }, {
-                                href: "/two",
+                                href: " ",
                                 style: l.b.Black,
                                 name: "work",
                                 x: .55,
                                 y: .15
                             }, {
-                                href: "/three",
+                                href: " ",
                                 style: l.b.Gray,
                                 name: "hobbies",
                                 x: .18,
                                 y: .48
                             }, {
-                                href: "/four",
+                                href: " ",
                                 style: l.b.Gray,
                                 name: "life",
                                 x: .18,
                                 y: .48    
                             }, {
-                                href: ".",
+                                href: " ",
                                 style: l.b.Gray,
                                 name: "life1",
                                 x: .18,
