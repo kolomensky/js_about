@@ -55,7 +55,7 @@
                             }, {
                                 href: " ",
                                 style: l.b.Gray,
-                                name: "hobbies",
+                                name: "hobby",
                                 x: .18,
                                 y: .48
                             }, {
